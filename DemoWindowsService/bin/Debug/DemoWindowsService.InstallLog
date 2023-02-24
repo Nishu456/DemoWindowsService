@@ -1,0 +1,73 @@
+﻿Installing assembly 'D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.InstallLog
+   assemblypath = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.InstallLog
+   assemblypath = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe
+Installing assembly 'D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.InstallLog
+   assemblypath = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.InstallLog
+   assemblypath = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.InstallLog
+   assemblypath = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.InstallLog
+   assemblypath = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.InstallLog
+   assemblypath = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.InstallLog
+   assemblypath = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.InstallLog
+   assemblypath = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.InstallLog
+   assemblypath = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.InstallLog
+   assemblypath = D:\Nisha Chavda\Demo Projects\DemoWindowsService\DemoWindowsService\bin\Debug\DemoWindowsService.exe
